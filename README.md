@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Uri Alcantar
 
-Soy un desarrollador web con enfoque en **frontend**, pero con conocimientos sólidos en backend, DevOps y arquitectura cloud. Me encanta construir soluciones útiles, eficientes y con buen diseño.
+Soy un desarrollador web con enfoque FullStack pero con solidos conocimientos de DevOps y arquitectura cloud. Me encanta construir soluciones útiles, eficientes y con buen diseño.
 
 ---
 
@@ -13,12 +13,11 @@ Soy un desarrollador web con enfoque en **frontend**, pero con conocimientos só
 
 ### Backend
 - 🟢 Node.js, Express
-- 🧬 .NET, C#
 - 🐘 Laravel, PHP
-- 🐳 MySQL, PostgreSQL, MongoDB
+- 🐳 MySQL, PostgreSQL, MongoDB, DynamoDB
 
 ### DevOps & Cloud
-- ☁️ AWS (Lambda, DynamoDB, S3, CloudWatch, API Gateway)
+- ☁️ AWS (Lambda, DynamoDB, S3, CloudWatch, API Gateway, Route S3)
 - 🔧 Docker, GitHub Actions
 - 🛡️ Route 53, IAM
 
