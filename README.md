@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Uri Alcantar
+# 👋 Hi there! I'm Uri Alcantar
 
-Soy un desarrollador web con enfoque FullStack pero con solidos conocimientos de DevOps y arquitectura cloud. Me encanta construir soluciones útiles, eficientes y con buen diseño.
+I'm a web developer with a Full Stack focus and solid knowledge of DevOps and cloud architecture. I love building useful, efficient, and well-designed solutions.
 
 ---
 
-## 🧠 Tecnologías que uso
+## 🧠 Technologies I use
 
 ### Frontend
 - ⚛️ React, Next.js, Angular, Vite
@@ -17,35 +17,32 @@ Soy un desarrollador web con enfoque FullStack pero con solidos conocimientos de
 - 🐳 MySQL, PostgreSQL, MongoDB, DynamoDB
 
 ### DevOps & Cloud
-- ☁️ AWS (Lambda, DynamoDB, S3, CloudWatch, API Gateway, Route S3)
+- ☁️ AWS (Lambda, DynamoDB, S3, CloudWatch, API Gateway, Route 53)
 - 🔧 Docker, GitHub Actions
 - 🛡️ Route 53, IAM
 
 ---
 
-## 🚀 Algunos proyectos
+## 🚀 Some Projects
 
+- **📦 Personal Website**  
+  My personal page built with React, Tailwind CSS, and TypeScript. Deployed on AWS Amplify 🚀🚀!
 
-- **📦 Pagina Personal**  
-  Mi pagina personal creada con React, Tailwind CSS y Typescript, deploys en AWS Amplify🚀🚀!
-
-  
 - **🔍 Rick and Morty Search**  
-  Buscador de personajes usando React y la API pública de Rick and Morty.  
-  [Ver repo](https://github.com/UriAlcantar/rick-and-morty-search)
-
-
----
-
-## 🎯 Actualmente
-
-🎓 Preparándome para obtener la certificación de **AWS Solutions Architect – Associate**  
-🧠 Aprendiendo más sobre **Laravel**, **SRE**, y **sistemas escalables**  
-💪 Trabajando en mis habilidades técnicas, físicas y mentales todos los días
+  Character search app using React and the public Rick and Morty API.  
+  [View repo](https://github.com/UriAlcantar/rick-and-morty-search)
 
 ---
 
-## 📫 ¿Dónde encontrarme?
+## 🎯 Currently
+
+🎓 Preparing for the **AWS Solutions Architect – Associate** certification  
+🧠 Learning more about **Laravel**, **SRE**, and **scalable systems**  
+💪 Improving my technical, physical, and mental skills every day
+
+---
+
+## 📫 Where to find me
 
 - 🌐 [urialcantar.com](https://urialcantar.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/uri-alcantar-avila/)
@@ -55,8 +52,8 @@ Soy un desarrollador web con enfoque FullStack pero con solidos conocimientos de
 
 ## ⚡ Extra
 
-Me apasionan los proyectos bien hechos, resolver problemas complejos y siempre estoy aprendiendo. También me gustan los videojuegos, el gym y los buenos retos.
+I'm passionate about building solid projects, solving complex problems, and constantly learning. I also enjoy gaming, working out, and taking on new challenges.
 
 ---
 
-_Gracias por pasar por aquí. ¡Te deseo código limpio y deploys exitosos!_
+_Thanks for stopping by! Wishing you clean code and successful deploys!_
