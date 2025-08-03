@@ -26,15 +26,15 @@ Soy un desarrollador web con enfoque en **frontend**, pero con conocimientos só
 
 ## 🚀 Algunos proyectos
 
+
+- **📦 Pagina Personal**  
+  Mi pagina personal creada con React, Tailwind CSS y Typescript, deploys en AWS Amplify🚀🚀!
+
+  
 - **🔍 Rick and Morty Search**  
   Buscador de personajes usando React y la API pública de Rick and Morty.  
   [Ver repo](https://github.com/UriAlcantar/rick-and-morty-search)
 
-- **📦 Panel de Inventario**  
-  App para gestionar productos, usuarios y movimientos, con control de roles. Angular + Node.js + MongoDB.
-
-- **⚙️ Automatización DevOps con AWS**  
-  Proyecto con Lambda + CloudWatch para registrar y gestionar actividades de una API RESTful sin servidor.
 
 ---
 
@@ -49,8 +49,8 @@ Soy un desarrollador web con enfoque en **frontend**, pero con conocimientos só
 ## 📫 ¿Dónde encontrarme?
 
 - 🌐 [urialcantar.com](https://urialcantar.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/urialcantar)
-- 📧 urialcantar.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/uri-alcantar-avila/)
+- 📧 uralcantar.uri.j@gmail.com
 
 ---
 
